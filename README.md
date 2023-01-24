@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkazovskiy&label=Profile%20views&color=0e75b6&style=flat" alt="mrkazovskiy" /> </p>
 
-- 🔭 I’m currently working on [HDParadise](hdparadise.netlify.app)
+- 🔭 I’m currently working on https://github.com/MrKazovskiy/HDParadise
 
 - 🌱 I’m currently learning **React; TS; JS; Node.js**
 
